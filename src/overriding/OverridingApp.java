@@ -3,6 +3,10 @@ package overriding;
 public class OverridingApp {
     public static void main(String[] args) {
 
+        /**
+         * Overriding = menggunakna method yang ada pada parentClass
+         */
+
         Shape shape = new Shape();
         shape.getCorner();
 
