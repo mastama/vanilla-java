@@ -1,0 +1,8 @@
+
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8‘ÕÍ¬1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¤©îûÿÿÿÿ
+
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æù†ğ8Ÿšà¬1
+9
+java:S1116	"Remove this empty statement.(æù†ğ8£šà¬1
