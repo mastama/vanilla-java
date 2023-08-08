@@ -5,6 +5,7 @@ public class VicePresident extends Manager{
 
     public VicePresident(String name) {
         super(name);
+        this.name = name;
     }
 
     public void sayHello(String name) {

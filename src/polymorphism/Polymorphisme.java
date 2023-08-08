@@ -24,9 +24,28 @@ public class Polymorphisme {
         sayHello(new Employee("Singgih"));
         sayHello(new Manager("Pratama"));
         sayHello(new VicePresident("Mas Tama"));
+
+        System.out.println("==================================================");
+        sayHellosWithKonversiDanPengecekan(new Employee("Tama"));
+        sayHellosWithKonversiDanPengecekan(new Manager("Singgih"));
+        sayHellosWithKonversiDanPengecekan(new VicePresident("Pratama"));
+
     }
 
     static void sayHello(Employee employee) {
         System.out.println("Hello " + employee.name);
+    }
+
+    /**
+     * proses pengecekan dan konversi
+     */
+    static void sayHellosWithKonversiDanPengecekan(Employee employee) {
+        if (employee instanceof VicePresident vicePresident) {
+            System.out.println("Hello VP " + vicePresident.name);
+        } else if (employee instanceof Manager manager) {
+            System.out.println("Hello Manager " + manager.name);
+        } else {
+            System.out.println("Hello " + employee.name);
+        }
     }
 }
