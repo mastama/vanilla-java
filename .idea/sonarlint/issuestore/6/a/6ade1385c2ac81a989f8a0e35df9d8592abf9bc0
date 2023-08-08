@@ -1,0 +1,15 @@
+
+
+java:S11923"bDefine a constant instead of duplicating this literal "Selamat Anda mendapatkan diskon: " 3 times.(æÕ÷ı8íôÆ¿œ1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(» À¢8¤ÜÅ¿œ1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Í¬Çª8¤ÜÅ¿œ1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ğ•Ùïûÿÿÿÿ8¥ÜÅ¿œ1
+]	java:S125)"<This block of commented-out lines of code should be removed.(ç€º‘üÿÿÿÿ8Â ï¿œ1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(æÕ÷ı8¦ÜÅ¿œ1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(æÕ÷ı8§ÜÅ¿œ1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ãÌĞò8¨ÜÅ¿œ1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(æÕ÷ı8šõÆ¿œ1
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ãÌĞò8©åÇ¿œ1
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(°Íÿ­ùÿÿÿÿ8¦‚Ì¿œ1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8öÃÜ¿œ1
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÌ“øÿÿÿÿ8õÊİ¿œ1

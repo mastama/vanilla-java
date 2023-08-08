@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â…İü8­¾ş¿œ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘„º•8®¾ş¿œ1
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Âµ‚8·¾ş¿œ1
+D
+java:S1125"'Remove the unnecessary boolean literal.(Âµ‚8»¾ş¿œ1
+D
+java:S1125	"'Remove the unnecessary boolean literal.(ò´Š”8Šßÿ¿œ1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Õ§ÀÔ8‹ßÿ¿œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸğÙ8×Ä€Àœ1
