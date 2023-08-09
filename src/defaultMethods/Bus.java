@@ -1,8 +1,23 @@
-package interfaceInheritance;
+package defaultMethods;
 
-public interface Motor extends IsMaintance, HasBrand {
-    void drive();
-    int getTire();
+import interfaceInheritance.Motor;
+
+public class Bus implements Motor {
+    public void drive() {
+        System.out.println("Bus Drive");
+    }
+
+    public int getTire() {
+        return 8;
+    }
+
+    public String getBrand() {
+        return "HINO";
+    }
+
+    public boolean isMainteances() {
+        return false;
+    }
 
     /**
      * default method ini diperlukan jika kita sudah memiliki terlalu banyak class yang implement interface tsb.
@@ -12,7 +27,8 @@ public interface Motor extends IsMaintance, HasBrand {
      * jadi, dengna menggunakan default method, kita bisa menambahkan konkrit method di interface tanpa semua class yang
      * diawal meng-implement interface tsb (jadi bisa ditambahkan di class yang ingin ditambahakan saja)
      */
-    default boolean isBig() {
-        return false;
+
+    public boolean isBig() {
+        return Motor.super.isBig();
     }
 }
