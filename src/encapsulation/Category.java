@@ -25,6 +25,8 @@ public class Category {
         }
     }
 
+
+
     public boolean isExpensive() {
         return expensive;
     }
