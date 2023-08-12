@@ -81,3 +81,9 @@ O
 src/equalsMethod/EqualsApp.java,6\9\6968ef1e5ffda22328e07bfa892c1e73cde7a3ec
 M
 src/equalsMethod/Product.java,a\d\ad605a857a73d29cc7fbac7396da1ec8df7327bb
+O
+src/encapsulation/Category.java,3\d\3d7675cd0d72c40dea55e9bd6372dc4d0e170c91
+P
+ src/innerOuterClass/Company.java,9\a\9a736f6283d2c2cf5c412f4c7454f62a9a995544
+S
+#src/innerOuterClass/CompanyApp.java,3\f\3f671390628e582e9a02c8e63b1477222f56b3df
